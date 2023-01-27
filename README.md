@@ -19,7 +19,7 @@ I love coding in C, C++. My favourite scripting languages are Bash and Python.
   
 🕮 Sociology graduate in Rome, La Sapienza  
 🖎 Stanislaw Lem hungry reader  
-🖮 Started my journey in coding experimenting creativity through code ( [.](https://www.scrittistentati.it/index.html) )  
+🖮 Started my journey in coding experimenting creativity through code ((( [.](https://www.scrittistentati.it/index.html) )))  
 
 
 <!--
