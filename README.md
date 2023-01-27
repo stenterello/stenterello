@@ -1,4 +1,4 @@
-### Hi there, I'm Davide Delladio, a student developer at 42 Roma LUISS.  
+## Hi there, I'm Davide Delladio, a student developer at 42 Rome LUISS.  
 
 ### My interests
 
@@ -7,13 +7,15 @@ I love coding in C, C++. My favourite scripting languages are Bash and Python.
 
 ### Currently working on...
 
-🐧 Linux deepening [ hoping this job never ends ]  
+🐧  Linux deepening [ hoping this job never ends ]  
 &emsp;{  
 &emsp;&emsp;_spoiler_ : my first LFS is on its way;  
 &emsp;}  
   
-🖧 [./webserv](https://github.com/stenterello/webserv) [ Project for 42 Roma school - not finished yet ]
-
+🖧  [./webserv](https://github.com/stenterello/webserv) [ Project for 42 Roma school - not finished yet ]  
+  
+  
+### Other useless things about me
 
 <!--
 **stenterello/stenterello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
