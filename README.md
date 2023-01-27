@@ -25,10 +25,10 @@ Web programming is not my main interest but I already know deeply HTML, CSS, Van
 🖎 Stanislaw Lem hungry reader  
 🖮 Started my journey in coding experimenting creativity through code ((( [.](https://www.scrittistentati.it/index.html) )))  
   
-
-
+  
+  
 <details><summary>How to reach me</summary>
 ```
-&emsp;&emsp;davide.delladio@gmail.com  
+davide.delladio@gmail.com  
 ```
 </details>
