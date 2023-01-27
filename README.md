@@ -4,7 +4,7 @@
 
 I'm a Linux enthusiast, always ready to learn and explore the big world of Unix systems.  
 I love coding in C, C++. My favourite scripting languages are Bash and Python.  
-Web programming is not my main interest but I already know deeply HTML, CSS, Vanilla Javascript, PHP
+Web programming is not my main interest but I already know deeply HTML, CSS, Vanilla Javascript, and a good part of PHP
 
 ### Currently working on...
 
@@ -15,7 +15,7 @@ Web programming is not my main interest but I already know deeply HTML, CSS, Van
   
 🖧  [./webserv](https://github.com/stenterello/webserv) [ Project for 42 Roma school - not finished yet ]  
   
-💽  Preparing to take certifications LPIC-
+💽  Preparing to take certifications LPIC-1, (ISC)² CC
   
   
 
