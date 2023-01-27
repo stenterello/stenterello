@@ -27,7 +27,9 @@ Web programming is not my main interest but I already know deeply HTML, CSS, Van
   
   
   
-<details><summary>How to reach me</summary>
+<details>
+	<summary>How to reach me</summary>
+	
 ```python  
 davide.delladio@gmail.com  
 ```  
