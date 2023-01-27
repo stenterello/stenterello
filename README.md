@@ -7,10 +7,10 @@ I love coding in C, C++. My favourite scripting languages are Bash and Python.
 
 ### Currently working on...
 
-🐧 Linux deepening [ hoping this job never ends ]
-	{
-		_spoiler_ : my first LFS is on its way;
-	}
+🐧 Linux deepening [ hoping this job never ends ]  
+	{  
+		_spoiler_ : my first LFS is on its way;  
+	}  
 
 
 <!--
