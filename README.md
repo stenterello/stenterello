@@ -15,7 +15,11 @@ I love coding in C, C++. My favourite scripting languages are Bash and Python.
 🖧  [./webserv](https://github.com/stenterello/webserv) [ Project for 42 Roma school - not finished yet ]  
   
   
-### Other useless things about me
+### Other useless things about me  
+  
+🕮 Sociology graduate in Rome, La Sapienza  
+
+
 
 <!--
 **stenterello/stenterello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
