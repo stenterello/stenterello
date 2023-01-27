@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Davide Delladio, a student developer at _42 Roma LUISS_.  
+
+### My interests
+
+I'm a Linux enthusiast, always ready to learn and explore the big world of Unix systems. 
+I love coding in C, C++ 
 
 <!--
 **stenterello/stenterello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
