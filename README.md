@@ -1,4 +1,4 @@
-## Hi there, I'm Davide Delladio, a student developer at 42 Rome LUISS.  
+## Hi there, I'm Davide Delladio, a C/C++ embedded developer 
 
 ### My interests
 
@@ -13,10 +13,9 @@ Web programming is not my main interest but I already know deeply HTML, CSS, Jav
 &emsp;&emsp;_spoiler_ : just finished my first [LFS](https://www.linuxfromscratch.org),  
 &emsp;&emsp;_fun exploration_ : studying kernel fundamentals  
 &emsp;}  
-  
-🖧  [./ft_transcendence](https://github.com/stenterello/ft_transcendence) [ In collaboration with @FraCipolla - Project for 42 Roma school - not finished yet ]  
-  
-💽  Preparing to take certifications LPIC-1, (ISC)² CC
+
+
+💽  Preparing to take certifications LPIC-1  
   
   
 
@@ -31,7 +30,7 @@ Web programming is not my main interest but I already know deeply HTML, CSS, Jav
 <details>
 	<summary>How to reach me</summary>
 	
-```python  
+```
 davide.delladio@gmail.com  
 ```  
 </details>
