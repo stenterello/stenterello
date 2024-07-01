@@ -1,4 +1,4 @@
-## Hi there, I'm Davide Delladio, a C/C++ embedded developer 
+## Hi there, I'm Davide Delladio, a C/C++ developer 
 
 ### My interests
 
@@ -15,9 +15,6 @@ Web programming is not my main interest but I already know deeply HTML, CSS, Jav
 &emsp;}  
 
 
-💽  Preparing to take certifications LPIC-1  
-  
-  
 
 ### Other useless things about me  
   
